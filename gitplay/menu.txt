@@ -1,5 +1,7 @@
-Salad
+Dinner Menu:
 
-Steak & Potatoes
+Appetizer / Salad:  House Salad with ranch dressing
 
-Chocolate Cake
+Main Course:  Spaghetti & Meatballs
+
+Dessert:  Chocolate Cake

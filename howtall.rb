@@ -1,6 +1,6 @@
 puts 'How tall are you in inches?'
 puts''
-height_inches = gets.chomp.to_f
+height_inches = gets.chomp
 puts 'your height in inches is ' + height_inches
 
 
