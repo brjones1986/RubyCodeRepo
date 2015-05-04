@@ -1,5 +1,5 @@
-Dinner Menu BASIC
+Dinner Menu STEAK
 
-Main Course:  Spaghetti & Meatballs
+Main Course:  Steak / Potatoes / Brocoli
 
-Dessert:  Ice Cream
+Dessert:  Chocolate Cake
