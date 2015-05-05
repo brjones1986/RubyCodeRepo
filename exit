@@ -1,0 +1,18 @@
+[33mb08e5eb[m HEAD@{0}: commit: dice roll example
+[33m0e829b2[m HEAD@{1}: checkout: moving from master to master
+[33m0e829b2[m HEAD@{2}: checkout: moving from master to master
+[33m0e829b2[m HEAD@{3}: merge steak_dinner: Fast-forward
+[33mce12169[m HEAD@{4}: checkout: moving from steak_dinner to master
+[33m0e829b2[m HEAD@{5}: commit: Steak Dinner Menu
+[33mce12169[m HEAD@{6}: checkout: moving from master to steak_dinner
+[33mce12169[m HEAD@{7}: commit: Dinner Menu BASIC
+[33m4dda66a[m HEAD@{8}: checkout: moving from master to master
+[33m4dda66a[m HEAD@{9}: commit: Steak Dinner menu
+[33mc3385d6[m HEAD@{10}: commit: Dinner Menu
+[33mac27117[m HEAD@{11}: commit: nursery rhyme madlib
+[33ma3f3ed1[m HEAD@{12}: checkout: moving from fancymenu to master
+[33mf944a44[m HEAD@{13}: commit: fancy menu take one
+[33ma3f3ed1[m HEAD@{14}: checkout: moving from master to fancymenu
+[33ma3f3ed1[m HEAD@{15}: commit: dinner menu
+[33m14dadc9[m HEAD@{16}: commit: adding new files
+[33md3658a6[m HEAD@{17}: commit (initial): The first Ruby program
