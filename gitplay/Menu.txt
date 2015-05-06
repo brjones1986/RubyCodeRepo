@@ -1,5 +1,5 @@
-Dinner Menu STEAK
+STEAK Dinner Menu 
 
-Main Course:  Steak / Potatoes / Brocoli
+Steak, Brocoli, Baked Potato
 
-Dessert:  Chocolate Cake
+Vanilla Ice Cream
